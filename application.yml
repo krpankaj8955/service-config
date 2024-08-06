@@ -3,6 +3,10 @@ app:
   config:
     role: Admin
 
+spring:
+  application:
+    name: DEFAULT-PROFILE
+
 eureka:
   instance:
     prefer-ip-address: true

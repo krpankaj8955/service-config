@@ -1,5 +1,9 @@
 # all the dev properties here
 
+spring:
+  application:
+    name: DEV-PROFILE
+
 app:
   config:
     role: Developer
