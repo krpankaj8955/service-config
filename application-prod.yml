@@ -1,5 +1,0 @@
-# all the prod properties here
-
-app:
-  config:
-    role: Manager
