@@ -1,4 +1,4 @@
 # all the default properties here
 app:
   config:
-    admin: Admin
+    role: Admin
