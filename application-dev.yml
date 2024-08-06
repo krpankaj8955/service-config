@@ -1,1 +1,5 @@
 # all the dev properties here
+
+app:
+  config:
+    role: Developer
