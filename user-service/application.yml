@@ -10,6 +10,3 @@ eureka:
 spring:
   application:
     name: user-service
-
-sample:
-  code : Pyramid320@
