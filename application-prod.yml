@@ -3,7 +3,3 @@
 app:
   config:
     role: Manager
-
-spring:
-  application:
-    name: PROD-PROFILE
